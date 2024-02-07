@@ -2,12 +2,12 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Roboto Flex', sans-serif;
+    font-family: 'Roboto condensed', sans-serif;
 }
 
 
 html {
-    background-color: #0c0c0c;
+    background-color: #262626;
     font-size: 62.5%;
     /* = 10px */
 }
